@@ -4,23 +4,15 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
-Thinking back, there are no memories to suggest that this should have been
+Thinking back, there are no memories to suggest that this should have been anything but an ordinary morning. You didn't go out last night, you don't usually take intoxicants, what's happening...? But it's probably not worth dwelling on that right now, you could be in danger.
 
-anything but an ordinary morning. You didn't go out last night, you don't
-
-usually take intoxicants, what's happening...?
-
-But it's probably not worth dwelling on that right now, you could be in danger.
-
-Grave danger.
+Grave danger.  The kind of danger your mother wasa to afraid to tell you about.
 
 *(Is there another kind?)*
 
-The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
-Quickly surveying your immediate surrounds, you notice a garishly dressed, 
-vacant eyed young man lounging on a nearby sofa.
+The type of extreme mortal danger that so often accompanies confectionary inspired interior design.  Quickly surveying your immediate surrounds, you notice a garishly dressed, vacant eyed young man lounging on a nearby sofa.
 
-[Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
+[Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)
 
 These marshmallows are numerous and they look so delicious.
 
@@ -30,7 +22,7 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You are feeling very anxious at this point.
 
-This is because you do not like leather for ethical reasons.
+This is because you do not like leather for ethical reasons.  It reminds you to much of dead flesh and suffering.
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
@@ -83,7 +75,7 @@ Pointing it at the door, eyes closed, "Alohomora..."
 Nothing seems to be happening.
 
 Sheepishly you look down on the crappy wand in your hand.
- 
+
 You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
@@ -320,7 +312,7 @@ Do you:
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
 
 [You take the red pill](red-pill/red-pill.md)
- 
+
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
